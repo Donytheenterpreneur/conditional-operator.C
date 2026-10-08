@@ -1,5 +1,4 @@
-//conditional-operator.C
-//code for conditional operator in C
+
 #include<stdio.h>
 int main(){
     int a,b,c,max;
